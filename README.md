@@ -40,6 +40,11 @@ Check out the [📖 VoltQuest Docs](./docs/index.md), including:
 - [`docs/dev-guide.md`](./docs/dev-guide.md) – Setup instructions and coding guidelines
 - [`docs/level-design-guide.md`](./docs/level-design-guide.md) – Level format, progression design, and mechanics
 
+## 📄 Licensing
+
+- Code license: [`LICENSE`](./LICENSE)
+- Asset license policy: [`ASSET-LICENSE.md`](./ASSET-LICENSE.md)
+
 ---
 
 ## 🤝 Contributing
@@ -57,4 +62,3 @@ If you're interested in contributing, join us there!
 [![Join Discord](https://img.shields.io/badge/chat-on%20Discord-7289DA?logo=discord\&style=for-the-badge)](https://discord.gg/HVP4kvDVh4)
 
 ---
-
